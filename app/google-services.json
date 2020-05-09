@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "411266051817",
+    "firebase_url": "https://schools-unnao.firebaseio.com",
+    "project_id": "schools-unnao",
+    "storage_bucket": "schools-unnao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411266051817:android:8e96053f25af7870218a78",
+        "android_client_info": {
+          "package_name": "com.edupolt.secondaryschoolsunnao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411266051817-qcrjo293skf13qplst6lu9idgfqnvrde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQX_r7dsbmUpk017YispZi4qC9_zTiYO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411266051817-qcrjo293skf13qplst6lu9idgfqnvrde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
