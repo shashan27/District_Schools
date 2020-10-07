@@ -5,5 +5,7 @@
         <item>@font/antic</item>
         <item>@font/berkshire_swash</item>
         <item>@font/bungee</item>
+        <item>@font/nunito_bold</item>
+        <item>@font/nunito_semibold</item>
     </array>
 </resources>
